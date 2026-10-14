@@ -1,0 +1,8 @@
+jax==0.4.34
+jaxlib==0.4.34
+equinox==0.11.7
+numpy==1.26.4
+matplotlib==3.9.2
+pytest==9.0.2
+
+immrax==0.1.0
